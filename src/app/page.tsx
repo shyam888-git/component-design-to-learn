@@ -4,6 +4,7 @@ import ButtonGroup from "./components/ButtonGroup";
 import ButtonGroupLinks from "./components/ButtonGroupLinks";
 import ButtonGroupLink2 from "./components/ButtonGroupLink2";
 import Example1 from "./components/Card/Example1";
+import Example2 from "./components/Card/Example2";
 
 export default function Home() {
   return (
@@ -13,7 +14,7 @@ export default function Home() {
       {/* <ButtonGroupLink2/> */}
       {/* <ButtonGroupLinks /> */}
 
-      <Example1/>
+      <Example2/>
     </div>
   );
 }
