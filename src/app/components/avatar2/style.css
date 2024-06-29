@@ -31,7 +31,7 @@ img{
     transition: .2s;
 }
 .avatar:not(:first-child){
-    margin-left: -4px;
+    margin-left: -10px;
 }
 
 .avatar:hover{
